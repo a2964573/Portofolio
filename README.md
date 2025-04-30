@@ -8,7 +8,7 @@
 > 포트폴리오  
 > 깃허브  
 ###### This is a static web page for introduction
-> ###### Resume
+> Resume  Portfolio  Github
 > ###### Portfolio
 > ###### Github
 
