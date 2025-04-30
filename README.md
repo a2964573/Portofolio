@@ -8,10 +8,10 @@
 > 포트폴리오  
 > 깃허브
 
-<small>This is a static web page for introduction</small>  
-> <small>Resume</small>
-> <small>Resume</small>
-> <small>Resume</small>
+###### This is a static web page for introduction
+> ###### Resume
+> ###### Portfolio
+> ###### Github
 
 ## Skill
 * HTML
