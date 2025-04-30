@@ -7,10 +7,10 @@
 > 이력서  
 > 포트폴리오  
 > 깃허브  
-###### This is a static web page for introduction
-> Resume  Portfolio  Github
-> ###### Portfolio
-> ###### Github
+<small>This is a static web page for introduction</small>
+> <small>Resume</small>
+> <small>Resume</small>
+> <small>Resume</small>
 
 ## Skill
 * HTML
